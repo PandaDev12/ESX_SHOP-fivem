@@ -1,5 +1,11 @@
 #autour Panda_Dev
+
 #Discord: https://discord.gg/VWqDrv6ca3
+
+Preview:
+
+
+https://www.youtube.com/watch?v=oJemkPvS6K0&feature=youtu.be
 
 ouvrez le fichier esx_basicneeds puis ouvrez main.lua dans coter serveur puis rajouter c'est ligne :
 
