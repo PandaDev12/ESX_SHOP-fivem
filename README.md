@@ -7,6 +7,12 @@ Preview:
 
 https://www.youtube.com/watch?v=oJemkPvS6K0&feature=youtu.be
 
+
+requirement:
+
+https://github.com/JustGodWork/jLib
+
+
 ouvrez le fichier esx_basicneeds puis ouvrez main.lua dans coter serveur puis rajouter c'est ligne :
 
 
