@@ -1,5 +1,3 @@
-#autour Panda_Dev
-
 #Discord: https://discord.gg/VWqDrv6ca3
 
 Preview:
